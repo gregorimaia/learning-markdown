@@ -1,4 +1,4 @@
-# Aqui ficario o título principal.
+# Aqui ficaria o título principal.
 ---
 ## Titulo secundário
 1. Enumerar cada linha;
