@@ -52,4 +52,5 @@ else:
 # Emojis
 
 Olá meus amigos 🖖
+
 Para encontrar emojis acessar [aqui](https://github.com/ikatyang) e ir em repositórios e acessar o repositório **emoji**.
