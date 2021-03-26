@@ -54,3 +54,9 @@ else:
 Olá meus amigos 🖖
 
 Para encontrar emojis acessar [aqui](https://github.com/ikatyang) e ir em repositórios e acessar o repositório **emoji**.
+
+Agora para colocar amoji no título da issue acessar [aqui](https://emojipedia.org/) e escolher a **categoria** e escollher o emoj **copy** e colar no título.
+
+# Citar
+
+> Para citar algo precisamos apenas botar o sinal de menor no início da frase.
