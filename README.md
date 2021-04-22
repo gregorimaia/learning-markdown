@@ -16,7 +16,7 @@
 ## Segundo título secundário
 Algumas palavras podem ser ~~modificadas~~ no texto enquanto outras podem ser em **negrito** ou __negrito__ e 
 *itálico* ou _itálico_. Mas também podemos ambos _**Itálico e negrito**_.
-### Susubtítulo
+### Subsubtítulo
 Algumas listas podem ser feitas assim:
 * Primeira frase.
 * Segunda frase.
