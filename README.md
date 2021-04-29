@@ -60,3 +60,6 @@ Agora para colocar amoji no título da issue acessar [aqui](https://emojipedia.o
 # Citar
 
 > Para citar algo precisamos apenas botar o sinal de menor no início da frase.
+> 
+# Site de Logos
+[Acesse o Fontawesome aqui](https://fontawesome.com/icons?d=gallery&p=2)
