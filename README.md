@@ -1,6 +1,6 @@
-# Aqui ficaria o título principal.
+# Aqui ficaria o título principal utilizando \#
 ---
-## Titulo secundário
+## Titulo secundário utilizando \##
 1. Enumerar cada linha;
 2. Próxima linha;
 3. Terceira linha;
@@ -14,10 +14,10 @@
    - [ ] Tarefa não realizada.
    - [ ] Última tarefa.
 ## Segundo título secundário
-Algumas palavras podem ser ~~modificadas~~ no texto enquanto outras podem ser em **negrito** ou __negrito__ e 
-*itálico* ou _itálico_. Mas também podemos ambos _**Itálico e negrito**_.
+Algumas palavras podem ser ~~modificadas~~ utilizando \~~ antes e depois da palavra ou texto,  enquanto outras podem ser em **negrito** utilizando ** antes e depois da palavra ou texto, __negrito__ utilizando \__ dois underlines antes e depois da palavra ou texto e 
+*itálico* ou _itálico_ utilizando * ou _ antes ou depois da palavra ou texto. Mas também podemos ambos _**Itálico e negrito**_ utilizando \**_ antes ou depois da palavra ou texto.
 ### Subsubtítulo
-Algumas listas podem ser feitas assim:
+Algumas listas podem ser feitas assim, utilizando * antes de cada item:
 * Primeira frase.
 * Segunda frase.
    * Subfrase.
@@ -31,6 +31,7 @@ Algumas listas podem ser feitas assim:
 # Criar links
 [Acesse meu GitHub clicando aqui](https://github.com/gregorimaia)
 
+Link criado desta forma: \[Acesse meu GitHub clicando aqui](https://github.com/gregorimaia)
 
 # Criar tabela
 Num | Nome | Nota
@@ -38,6 +39,18 @@ Num | Nome | Nota
 1 | Grégori | 8,4
 2 | Ana | 9,5
 3 | Mathias | 8,8
+
+Código exemplo abaixo:
+
+\Num | Nome | Nota
+
+\---|---|---
+
+\1 | Grégori | 8,4
+
+\2 | Ana | 9,5
+
+\3 | Mathias | 8,8
 
 Destacando o texto faremos `crazeando no começo e no fim`.
 
@@ -60,6 +73,8 @@ Agora para colocar amoji no título da issue acessar [aqui](https://emojipedia.o
 # Citar
 
 > Para citar algo precisamos apenas botar o sinal de menor no início da frase.
-> 
+\> Como por exemplo. 
 # Site de Logos
 [Acesse o Fontawesome aqui](https://fontawesome.com/icons?d=gallery&p=2)
+
+Exemplo: \[Acesse o Fontawesome aqui](https://fontawesome.com/icons?d=gallery&p=2)
